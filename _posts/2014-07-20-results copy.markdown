@@ -1,6 +1,6 @@
 ---
 title: Election Result System
-subtitle: UX Desinger
+subtitle: Konnech - UX Desinger
 layout: default
 modal-id: 4
 date: 2014-07-20

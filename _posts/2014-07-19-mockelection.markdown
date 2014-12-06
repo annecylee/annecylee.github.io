@@ -1,6 +1,6 @@
 ---
 title: Next-generation Voting System
-subtitle: UX Desinger
+subtitle: Konnech - UX Desinger
 layout: default
 modal-id: 5
 date: 2014-07-19
