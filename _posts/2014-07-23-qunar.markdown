@@ -1,0 +1,79 @@
+---
+title: Flights Booking App
+subtitle: Interaction Design
+layout: default
+modal-id: 1
+date: 2014-07-23
+img: Qunar/booking_process/booking_prcess.png
+thumbnail: qunar.png
+alt: image-alt
+project-date: 2013 - 2014
+client: Qunar
+category: Interaction Designer
+description: At Qunar Mobile, we designed travel app for users to book flights, hotels and other travel services on their mobile phones or tablets. This project was to redesign flights booking process. I reconstructed interface architecture and information architecture. 
+
+---
+To begin, I detected existing problems by reviewing the old design flows. And I found that the main problem was disregarding user’s behavior in different the context.  
+<img src="img/portfolio/Qunar/booking_process/old_result_page.png" width="200px" border="1px" style="PADDING-RIGHT: 20px" align="left" />
+<img src="img/portfolio/Qunar/booking_process/old-OTA_roundtrip.png" width="200px" border="1px" style="PADDING-RIGHT: 10px" align="left" />
+<p>
+  <b>Old Design Problems</b>
+  <li>Flight info was not intuitive </li>
+  <li>Too much content, repeating info in multiple processes</li>
+  <li>Visual hierarchy was not clear</li>
+  <li>Not focued on users’ main task</li>
+</p>
+<br /><br /><br /><br /><br /><br />
+
+In order to understand what information user was looking for in different steps, I conducted a card sorting research.  
+19 cards were prepared. Content topics included ticket price, flight time/day, on-time performance,  aircraft type, etc.  
+<img src="img/portfolio/UX_Research/Qunar_Usability_Testing/card_sorting/img.jpg" height="200px" border="1px">
+<img src="img/portfolio/UX_Research/Qunar_Usability_Testing/card_sorting/card_sorting_data5.png" height="200px" border="1px">
+8 users were recruited .They were asked to group information they cared in different steps. Then they ranked and named each group of cards. After analyzed data, I had some preliminary understandings of user’s behavior in different contexts.  
+<img src="img/portfolio/UX_Research/Qunar_Usability_Testing/card_sorting/card_sorting_data1.png" width="300px" border="1px">
+<img src="img/portfolio/UX_Research/Qunar_Usability_Testing/card_sorting/card_sorting_data3.png" width="300px" border="1px">
+
+
+An online survey was conducted to gather more general information, and to create user personas.The survey included questions on users’ travel patterns and their online booking behaviors.
+<img src="img/portfolio/Qunar/booking_process/Qunar_Usability_Testing/survey.png" width="600px" border="1px">
+
+262 responses were collected. My coworkers and I analyzed the data, and applied the survey results to create user personas.  
+<img src="img/portfolio/Qunar/booking_process/Qunar_Usability_Testing/survey_data2.png" height="200px" border="1px" style="PADDING-RIGHT: 50px">
+<img src="img/portfolio/Qunar/booking_process/Qunar_Usability_Testing/survey-feedback.png" height="200px" border="1px" style="PADDING-RIGHT: 50px">
+<img src="img/portfolio/Qunar/booking_process/personas.png" height="200px" border="1px">
+
+Drawing on my insights, I developed interface hypotheses by sketching, wireframing and prototyping.
+
+Early Sketches  
+<img src="img/portfolio/Qunar/9.pic_hd.jpg" height="150px" border="1px" style="PADDING-RIGHT: 10px">
+<img src="img/portfolio/Qunar/8.pic_hd.jpg" height="150px" border="1px" style="PADDING-RIGHT: 10px">
+<img src="img/portfolio/Qunar/10.pic_hd.jpg" height="150px" border="1px" style="PADDING-RIGHT: 10px">
+
+Flow Chart & Medium-Fidelity Mockups  
+<img src="img/portfolio/Qunar/booking_process/flowchart2.png" height="218px" border="1px" style="PADDING-RIGHT: 10px">
+<img src="img/portfolio/Qunar/booking_process/mockups.png" height="200px" border="1px" style="PADDING-RIGHT: 10px">
+
+Here are some examples:  
+Information Redesign Examples
+Old version was hard to understand. So we restructed flight info to make sure that new info structure was easy to understand and target.  
+<img src="img/portfolio/Qunar/booking_process/information_redesign_example1.png" width="800px" border="1px" style="PADDING-RIGHT: 10px">
+
+Interaction Redesign Exampls
+1. I reconstructed the hierarchy of Booking Page Hierarchy and designed new gestures for users to interact with the new interface. In old version, the visual hierarchy was not clear, user could not focus on main task. New design focused on user’s main task - passenger info input. 
+<img src="img/portfolio/Qunar/booking_process/Interaction_redesign_example1.png" width="800px" border="1px" style="PADDING-RIGHT: 10px">
+2. Another example is redesigning filter on Searching Result Page.Instead of using side drawer filter, modal filter was applied in the new design to make workflow more smoothly.
+<img src="img/portfolio/Qunar/booking_process/information_redesign_filter1.png" width="800px" border="1px" style="PADDING-RIGHT: 10px">
+
+Functional Design Example
+We designed a price calendar for checking round-trip ticket price . X-axis represents departure date and y-axis represents return date. A given point in the coordinate represents the cheapest price for a round trip. When user’s flight dates are flexible , this calendar allows user to instantly compare prices with different combinations of date and length of stay.  
+<img src="img/portfolio/Qunar/booking_process/information_redesign_calendar1.png" width="800px" border="1px" style="PADDING-RIGHT: 10px">
+
+Testing was followed to provide users best experience.
+Usability Test  
+<img src="img/portfolio/UX_Research/Qunar_Usability_Testing/usability_testing_pic.png" width="400px" border="1px" style="PADDING-RIGHT: 10px">
+
+A/B Test Example: when data extraction takes time, only few flights will be presented at first. In this case, how to let user know that more information is loading? Two solutions were provided, and an A/B test was followed to choose a better experience.  
+<img src="img/portfolio/Qunar/booking_process/ab_test.png" width="800px" border="1px" style="PADDING-RIGHT: 10px">
+
+
+

@@ -1,0 +1,21 @@
+---
+title: iAsk
+subtitle: Individual Project
+layout: default
+modal-id: 6
+date: 2014-07-18
+img: escape.png
+thumbnail: ask.png
+alt: image-alt
+project-date: April 2014
+client: Start Bootstrap
+category: Web Development
+description: For local information or service, neighbors might have best answer. This app connects people nearby, allowing them to discover locals by talking to other users around them , or reviewing the Q&A according to their area. 
+
+---
+Interacts With People Nearby  
+<img src="img/portfolio/Ask/guesture.png" width="800px" border="1px" style="PADDING-RIGHT: 10px">  
+To filter content in Q&A, users need to send specific messages. Those messages are captured by script and sent them to the emulator as button input.  
+Examples:1. @ north park : show results only associated with the  keyword ‘north park’2. -restaurant: remove results associated with the negative keyword ‘restaurant’3. >3mi: show results  less than 3mi  away  
+<img src="img/portfolio/Ask/QAlist_2.jpg" width="300px" border="1px" style="PADDING-RIGHT: 10px"> 
+<img src="img/portfolio/Ask/QAlist1.png" width="300px" border="1px" style="PADDING-RIGHT: 10px"> 

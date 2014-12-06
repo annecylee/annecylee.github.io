@@ -1,0 +1,18 @@
+---
+title: Flights/Hotels Paying Process
+subtitle: Interaction Desinger
+layout: default
+modal-id: 2
+date: 2014-07-22
+img: Qunar/pad_paymennt/payment-flow.png
+thumbnail: hotel_pay.png
+alt: image-alt
+project-date: April 2014
+client: Start Bootstrap
+category: Web Development
+description: This project redesigned an existing payment processes, providing an easier paying experience for users.  
+
+---
+ Mockups with notes to present interfaces at different contexts  
+<img src="img/portfolio/Qunar/pad_paymennt/account_pay_success.png" width="800px" border="1px" style="PADDING-RIGHT: 10px"> 
+<img src="img/portfolio/Qunar/pad_paymennt/payment.png" width="800px" border="1px" style="PADDING-RIGHT: 10px"> 
