@@ -19,3 +19,4 @@ To filter content in Q&A, users need to send specific messages. Those messages a
 Examples:1. @ north park : show results only associated with the  keyword ‘north park’2. -restaurant: remove results associated with the negative keyword ‘restaurant’3. >3mi: show results  less than 3mi  away  
 <img src="img/portfolio/Ask/QAlist_2.jpg" width="300px" border="1px" style="PADDING-RIGHT: 10px"> 
 <img src="img/portfolio/Ask/QAlist1.png" width="300px" border="1px" style="PADDING-RIGHT: 10px"> 
+

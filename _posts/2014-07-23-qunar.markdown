@@ -13,6 +13,8 @@ category: Interaction Designer
 description: At Qunar Mobile, we designed travel app for users to book flights, hotels and other travel services on their mobile phones or tablets. This project was to redesign flights booking process. I reconstructed interface architecture and information architecture. 
 
 ---
+<info>WALKTHROUGH</info>
+
 To begin, I detected existing problems by reviewing the old design flows. And I found that the main problem was disregarding user’s behavior in different the context.  
 <img src="img/portfolio/Qunar/booking_process/old_result_page.png" width="200px" border="1px" style="PADDING-RIGHT: 20px" align="left" />
 <img src="img/portfolio/Qunar/booking_process/old-OTA_roundtrip.png" width="200px" border="1px" style="PADDING-RIGHT: 10px" align="left" />
@@ -23,8 +25,8 @@ To begin, I detected existing problems by reviewing the old design flows. And I 
   <li>Visual hierarchy was not clear</li>
   <li>Not focued on users’ main task</li>
 </p>
-<br /><br /><br /><br /><br /><br />
-
+<br /><br /><br /><br /><br /><br />  
+<info> RESEARCH</info>
 In order to understand what information user was looking for in different steps, I conducted a card sorting research.  
 19 cards were prepared. Content topics included ticket price, flight time/day, on-time performance,  aircraft type, etc.  
 <img src="img/portfolio/UX_Research/Qunar_Usability_Testing/card_sorting/img.jpg" height="200px" border="1px">
@@ -41,7 +43,7 @@ An online survey was conducted to gather more general information, and to create
 <img src="img/portfolio/Qunar/booking_process/Qunar_Usability_Testing/survey_data2.png" height="200px" border="1px" style="PADDING-RIGHT: 50px">
 <img src="img/portfolio/Qunar/booking_process/Qunar_Usability_Testing/survey-feedback.png" height="200px" border="1px" style="PADDING-RIGHT: 50px">
 <img src="img/portfolio/Qunar/booking_process/personas.png" height="200px" border="1px">
-
+<info> DESIGN</info>
 Drawing on my insights, I developed interface hypotheses by sketching, wireframing and prototyping.
 
 Early Sketches  
@@ -52,7 +54,7 @@ Early Sketches
 Flow Chart & Medium-Fidelity Mockups  
 <img src="img/portfolio/Qunar/booking_process/flowchart2.png" height="218px" border="1px" style="PADDING-RIGHT: 10px">
 <img src="img/portfolio/Qunar/booking_process/mockups.png" height="200px" border="1px" style="PADDING-RIGHT: 10px">
-
+<info>Outputs</info>  
 Here are some examples:  
 Information Redesign Examples
 Old version was hard to understand. So we restructed flight info to make sure that new info structure was easy to understand and target.  
@@ -67,7 +69,7 @@ Interaction Redesign Exampls
 Functional Design Example
 We designed a price calendar for checking round-trip ticket price . X-axis represents departure date and y-axis represents return date. A given point in the coordinate represents the cheapest price for a round trip. When user’s flight dates are flexible , this calendar allows user to instantly compare prices with different combinations of date and length of stay.  
 <img src="img/portfolio/Qunar/booking_process/information_redesign_calendar1.png" width="800px" border="1px" style="PADDING-RIGHT: 10px">
-
+<info>TESTING</info>    
 Testing was followed to provide users best experience.
 Usability Test  
 <img src="img/portfolio/UX_Research/Qunar_Usability_Testing/usability_testing_pic.png" width="400px" border="1px" style="PADDING-RIGHT: 10px">
