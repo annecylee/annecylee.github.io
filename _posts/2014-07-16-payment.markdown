@@ -13,16 +13,27 @@ category: Web Development
 description: This online payment system provides an easy way for users to transfer money or pay bills online. Within this system, users can transfer money to multiple accounts, or pay utility bills, rent, mortgage, and so on.
 
 ---
+This online payment system provides an easy way for users to transfer money or pay bills online. Within this system, users can transfer money to multiple accounts, or pay utility bills, rent, mortgage, and so on.
+
+<img src="img/portfolio/payment_system/flows.png" width="600px" border="1px" style="PADDING-RIGHT: 10px" class="img-responsive img-centered">
 
 Transfer Money to Multiple Accounts   
-<img src="img/portfolio/payment_system/transfer_mutiple.png" width="600px" border="1px" style="PADDING-RIGHT: 10px">
 
-Select A Bill to Pay  
-<img src="img/portfolio/payment_system/pay2.png" width="600px" border="1px" style="PADDING-RIGHT: 10px">
+<img src="img/portfolio/payment_system/transfer_mutiple.png" width="600px" border="1px" style="PADDING-RIGHT: 10px" class="img-responsive img-centered">
 
-Remove /Add Bill Type  
-<img src="img/portfolio/payment_system/pay_delete.png" width="300px" border="1px" style="PADDING-RIGHT: 10px">
-<img src="img/portfolio/payment_system/pay_add_bill.png" width="300px" border="1px" style="PADDING-RIGHT: 10px">
+Select A Bill to Pay 
+ 
+<img src="img/portfolio/payment_system/pay2.png" width="600px" border="1px" style="PADDING-RIGHT: 10px" class="img-responsive img-centered">
+
+Remove /Add Bill Type
+
+<div class="col-sm-6">  
+<img src="img/portfolio/payment_system/pay_delete.png" width="300px" border="1px" style="PADDING-RIGHT: 10px" class="img-responsive img-centered">
+</div>
+<div class="col-sm-6">
+<img src="img/portfolio/payment_system/pay_add_bill.png" width="300px" border="1px" style="PADDING-RIGHT: 10px" class="img-responsive img-centered">
+</div>
 
 Pay Electric Bill  
-<img src="img/portfolio/payment_system/pay_electric_bill.png" width="600px" border="1px" style="PADDING-RIGHT: 10px">
+
+<img src="img/portfolio/payment_system/pay_electric_bill.png" width="600px" border="1px" style="PADDING-RIGHT: 10px" class="img-responsive img-centered">

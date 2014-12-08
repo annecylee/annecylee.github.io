@@ -16,21 +16,33 @@ description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At du
 Will virtual stereotypical movement activate the corresponding stereotype? To answer this question,  my partner and I designed a study, conducted an experiment, analyzed data, and wrote a research paper.
 
 We recruited 20 subjects to play a variable speed digital punching game, and measured bio-metrical and lexicographical responses in several post-tests. Then subjects read one-page description of a target person and answered a questionnaire about the target person. Finally, subjects finished a questionnaire about their game experience to measure the presence and embodiment.
-Digital Punching Game  
-
-<img src="img/portfolio/UX_Research/Avatar/page_2.png" height="180px" border="1px" style="PADDING-RIGHT: 10px"> 
-<img src="img/portfolio/UX_Research/Avatar/copy_of_page_3.png" height="180px" border="1px" style="PADDING-RIGHT: 10px"> 
+Digital Punching Game
+  
+<div class="col-sm-6">
+<img src="img/portfolio/UX_Research/Avatar/page_2.png" border="1px" style="max-height: 180px; PADDING-RIGHT: 10px" class="img-responsive img-centered">
+</div>
+<div class="col-sm-6"> 
+<img src="img/portfolio/UX_Research/Avatar/copy_of_page_3.png" border="1px" style="max-height: 180px; PADDING-RIGHT: 10px" class="img-responsive img-centered"> 
+</div>
 
 Questionnaires   
 
-<img src="img/portfolio/UX_Research/Avatar/questionnaire1.png" width="350px" border="1px" style="PADDING-RIGHT: 10px">
-<img src="img/portfolio/UX_Research/Avatar/questionnaire2.png" width ="350px" border="1px" style="PADDING-RIGHT: 10px">
+<div class="col-sm-6">
+<img src="img/portfolio/UX_Research/Avatar/questionnaire1.png" border="1px" style="max-width: 350px; PADDING-RIGHT: 10px" class="img-responsive img-centered">
+</div>
+<div class="col-sm-6">
+<img src="img/portfolio/UX_Research/Avatar/questionnaire2.png" border="1px" style="max-width: 350px; PADDING-RIGHT: 10px" class="img-responsive img-centered">
+</div>
 
 Using SPSS to Analyze Data  
 
-<img src="img/portfolio/UX_Research/Avatar/SPSS.png" width ="350px" border="1px" style="PADDING-RIGHT: 10px">
+<img src="img/portfolio/UX_Research/Avatar/SPSS.png" width ="350px" border="1px" style="PADDING-RIGHT: 10px" class="img-responsive img-centered">
 
 Final Paper  
 
-<img src="img/portfolio/UX_Research/Avatar/paper_index.png" height ="450px" border="1px" style="PADDING-RIGHT: 10px">
-<img src="img/portfolio/UX_Research/Avatar/Avatar_Paper.png" height ="450px" border="1px" style="PADDING-RIGHT: 10px">
+<div class="col-sm-6">
+<img src="img/portfolio/UX_Research/Avatar/paper_index.png" border="1px" style="max-height: 450px; PADDING-RIGHT: 10px" class="img-responsive img-centered">
+</div>
+<div class="col-sm-6">
+<img src="img/portfolio/UX_Research/Avatar/Avatar_Paper.png"  border="1px" sstyle="max-height: 450px; PADDING-RIGHT: 10px" class="img-responsive img-centered">
+</div>
