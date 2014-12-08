@@ -15,7 +15,7 @@ description: At Qunar Mobile, we designed travel app for users to book flights, 
 ---
 <info>WALKTHROUGH</info>
 
-To begin, I detected existing problems by reviewing the old design flows. And I found that the main problem was disregarding user’s behavior in different the context. 
+First of all, I detected existing problems by reviewing the old design flows. And I found that the main problem was disregarding user’s behavior in different the context. 
 
 <div class="col-sm-4"> 
 <img src="img/portfolio/Qunar/booking_process/old_result_page.png" class="img-responsive" border="1px" style="max-width: 200px; PADDING-RIGHT: 10px" align="left" />
@@ -27,7 +27,7 @@ To begin, I detected existing problems by reviewing the old design flows. And I 
   <li>Flight info was not intuitive </li>
   <li>Too much content, repeating info in multiple processes</li>
   <li>Visual hierarchy was not clear</li>
-  <li>Not focued on users’ main task</li>
+  <li>Not focused on users’ main task</li>
 </p>
 </div>
 
