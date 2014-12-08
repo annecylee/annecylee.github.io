@@ -13,11 +13,14 @@ category: Web Development
 description: This project included studies of Review & Buying Decision and Blog Comments & Reader’s opinion forming. My responsibilities included designing experimental stimulus(webpages), conducting experiment, and data processing.
 
 ---
+This project included studies of Review & Buying Decision and Blog Comments & Reader’s opinion forming. My responsibilities included designing experimental stimulus(webpages), conducting experiment, and data processing.
 
-Review and Buying Decision : It studied how prospective consumer’s buying decision was influenced by reviews from experts and from other consumers respectively.  
-<img src="img/portfolio/UX_Research/Reviews_Effect/G3-2a.4a.jpg" width ="800px" border="1px" style="PADDING-RIGHT: 10px" />
-<img src="img/portfolio/UX_Research/Reviews_Effect/G4-2b.4b.jpg" width ="800px" border="1px" style="PADDING-RIGHT: 10px" />
+Review and Buying Decision : It studied how prospective consumer’s buying decision was influenced by reviews from experts and from other consumers respectively. 
+ 
+<img src="img/portfolio/UX_Research/Reviews_Effect/G3-2a.4a.jpg" width ="800px" border="1px" style="PADDING-RIGHT: 10px" class="img-responsive img-centered" />
+<img src="img/portfolio/UX_Research/Reviews_Effect/G4-2b.4b.jpg" width ="800px" border="1px" style="PADDING-RIGHT: 10px" class="img-responsive img-centered" />
 
-Blog Comments and Reader’s opinion forming: It studied how blog reader’s opinion was influenced by comments from other readers, who had similar or varied physical appearance(according to readers’ avatars, variables include Gender, Ethnicity, Ages, etc.)  
-<img src="img/portfolio/UX_Research/Reviews_Effect/G5.jpg" width ="800px" border="1px" style="PADDING-RIGHT: 20px" />  
-<img src="img/portfolio/UX_Research/Reviews_Effect/avatars.png" width ="800px" border="1px" style="PADDING-RIGHT: 20px" />
+Blog Comments and Reader’s opinion forming: It studied how blog reader’s opinion was influenced by comments from other readers, who had similar or varied physical appearance(according to readers’ avatars, variables include Gender, Ethnicity, Ages, etc.) 
+ 
+<img src="img/portfolio/UX_Research/Reviews_Effect/G5.jpg" width ="800px" border="1px" style="PADDING-RIGHT: 20px" class="img-responsive img-centered" />  
+<img src="img/portfolio/UX_Research/Reviews_Effect/avatars.png" width ="800px" border="1px" style="PADDING-RIGHT: 20px" class="img-responsive img-centered"  />

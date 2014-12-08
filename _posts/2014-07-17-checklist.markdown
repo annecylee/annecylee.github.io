@@ -13,8 +13,12 @@ category: Web Development
 description: This To Do List allows user to invite multiple friends to work on the same task, keeping everyone on the same page.
 
 ---
-Invite Friends  
-<img src="img/portfolio/CheckList/add_new_list3(enter_name).png" width="400px" border="1px" style="PADDING-RIGHT: 10px"> 
+This To Do List allows user to invite multiple friends to work on the same task, keeping everyone on the same page.
+
+Invite Friends 
+ 
+<img src="img/portfolio/CheckList/add_new_list3(enter_name).png" width="400px" border="1px" style="PADDING-RIGHT: 10px" class="img-responsive img-centered"> 
 
 On The Same Page  
-<img src="img/portfolio/CheckList/lists(no_alert).png" width="400px" border="1px" style="PADDING-RIGHT: 10px"> 
+
+<img src="img/portfolio/CheckList/lists(no_alert).png" width="400px" border="1px" style="PADDING-RIGHT: 10px" class="img-responsive img-centered"> 

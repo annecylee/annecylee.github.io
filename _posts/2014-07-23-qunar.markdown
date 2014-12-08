@@ -13,6 +13,10 @@ category: Interaction Designer
 description: At Qunar Mobile, we designed travel app for users to book flights, hotels and other travel services on their mobile phones or tablets. This project was to redesign flights booking process. I reconstructed interface architecture and information architecture. 
 
 ---
+At Qunar Mobile, we designed travel app for users to book flights, hotels and other travel services on their mobile phones or tablets. This project was to redesign flights booking process. I reconstructed interface architecture and information architecture.
+
+<img src="img/portfolio/Qunar/booking_process/booking_prcess.png" class="img-responsive img-centered" width="600px" border="1px">
+
 <info>WALKTHROUGH</info>
 
 To begin, I detected existing problems by reviewing the old design flows. And I found that the main problem was disregarding user’s behavior in different the context. 
