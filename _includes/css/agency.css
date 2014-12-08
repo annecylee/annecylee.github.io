@@ -11,7 +11,8 @@ border-left: none;
 border-right: none;
 padding: 8px 30px 8px 30px;
 margin-left: -60px;
-margin-bottom: 3em;
+margin-top: 30px;
+margin-bottom: 20px;
 }
 
 body {
@@ -325,8 +326,8 @@ header .intro-text .intro-heading {
         margin-bottom: 50px;
         text-transform: uppercase;
         font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
-        font-size: 75px;
-        font-weight: 700;
+        font-size: 35px;
+        font-weight: 500;
         line-height: 75px;
     }
 }
@@ -798,7 +799,6 @@ ul.social-buttons li a:active {
 
 .portfolio-modal .modal-content p {
     margin-bottom: 30px;
-    text-align: justify;
 }
 
 .portfolio-modal .modal-content p.item-intro {
