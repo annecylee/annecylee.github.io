@@ -27,11 +27,10 @@ To begin, I detected existing problems by reviewing the old design flows. And I 
 </p>
 <br /><br /><br /><br /><br /><br />  
 <info> RESEARCH</info>
-In order to understand what information user was looking for in different steps, I conducted a card sorting research.  
-19 cards were prepared. Content topics included ticket price, flight time/day, on-time performance,  aircraft type, etc.  
+In order to understand what information user was looking for in different steps, I conducted a card sorting research. 19 cards were prepared. Content topics included ticket price, flight time/day, on-time performance,  aircraft type, etc.  
 <img src="img/portfolio/UX_Research/Qunar_Usability_Testing/card_sorting/img.jpg" height="200px" border="1px">
-<img src="img/portfolio/UX_Research/Qunar_Usability_Testing/card_sorting/card_sorting_data5.png" height="200px" border="1px">
-8 users were recruited .They were asked to group information they cared in different steps. Then they ranked and named each group of cards. After analyzed data, I had some preliminary understandings of user’s behavior in different contexts.  
+<img src="img/portfolio/UX_Research/Qunar_Usability_Testing/card_sorting/card_sorting_data5.png" height="200px" border="1px">  
+8 users were recruited. They were asked to group information they cared in different steps. Then they ranked and named each group of cards. After analyzed data, I had some preliminary understandings of user’s behavior in different contexts.  
 <img src="img/portfolio/UX_Research/Qunar_Usability_Testing/card_sorting/card_sorting_data1.png" width="300px" border="1px">
 <img src="img/portfolio/UX_Research/Qunar_Usability_Testing/card_sorting/card_sorting_data3.png" width="300px" border="1px">
 
@@ -54,27 +53,28 @@ Early Sketches
 Flow Chart & Medium-Fidelity Mockups  
 <img src="img/portfolio/Qunar/booking_process/flowchart2.png" height="218px" border="1px" style="PADDING-RIGHT: 10px">
 <img src="img/portfolio/Qunar/booking_process/mockups.png" height="200px" border="1px" style="PADDING-RIGHT: 10px">
-<info>Outputs</info>  
-Here are some examples:  
-Information Redesign Examples
+<info>EXAMPLES</info>  
+Information Redesign Examples  
 Old version was hard to understand. So we restructed flight info to make sure that new info structure was easy to understand and target.  
 <img src="img/portfolio/Qunar/booking_process/information_redesign_example1.png" width="800px" border="1px" style="PADDING-RIGHT: 10px">
 
-Interaction Redesign Exampls
+Interaction Redesign Examples  
 1. I reconstructed the hierarchy of Booking Page Hierarchy and designed new gestures for users to interact with the new interface. In old version, the visual hierarchy was not clear, user could not focus on main task. New design focused on user’s main task - passenger info input. 
 <img src="img/portfolio/Qunar/booking_process/Interaction_redesign_example1.png" width="800px" border="1px" style="PADDING-RIGHT: 10px">
 2. Another example is redesigning filter on Searching Result Page.Instead of using side drawer filter, modal filter was applied in the new design to make workflow more smoothly.
 <img src="img/portfolio/Qunar/booking_process/information_redesign_filter1.png" width="800px" border="1px" style="PADDING-RIGHT: 10px">
 
-Functional Design Example
+Functional Design Example    
 We designed a price calendar for checking round-trip ticket price . X-axis represents departure date and y-axis represents return date. A given point in the coordinate represents the cheapest price for a round trip. When user’s flight dates are flexible , this calendar allows user to instantly compare prices with different combinations of date and length of stay.  
 <img src="img/portfolio/Qunar/booking_process/information_redesign_calendar1.png" width="800px" border="1px" style="PADDING-RIGHT: 10px">
 <info>TESTING</info>    
-Testing was followed to provide users best experience.
-Usability Test  
-<img src="img/portfolio/UX_Research/Qunar_Usability_Testing/usability_testing_pic.png" width="400px" border="1px" style="PADDING-RIGHT: 10px">
+Testings were followed at different points, either before launch or after launch, to ensure application's usability.
+Usability testing of calandar  
+<img src="img/portfolio/UX_Research/Qunar_Usability_Testing/usability_testing_pic.png" height="400px" border="1px" style="PADDING-RIGHT: 10px">
+<img src="img/portfolio/Qunar/booking_process/Qunar_Usability_Testing/usability_testing/data.png" height="410px" border="1px" style="PADDING-RIGHT: 10px">  
 
-A/B Test Example: when data extraction takes time, only few flights will be presented at first. In this case, how to let user know that more information is loading? Two solutions were provided, and an A/B test was followed to choose a better experience.  
+A/B Test Examples   
+When data extraction takes time, only few flights will be presented at first. In this case, how to let user know that more information is loading? Two solutions were provided, and an A/B test was followed to choose a better experience.  
 <img src="img/portfolio/Qunar/booking_process/ab_test.png" width="800px" border="1px" style="PADDING-RIGHT: 10px">
 
 
