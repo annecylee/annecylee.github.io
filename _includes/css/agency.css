@@ -12,7 +12,6 @@ border-right: none;
 padding: 8px 30px 8px 30px;
 margin-left: -60px;
 margin-bottom: 3em;
-background-color: #fafafa;
 }
 
 body {
@@ -799,6 +798,7 @@ ul.social-buttons li a:active {
 
 .portfolio-modal .modal-content p {
     margin-bottom: 30px;
+    text-align: justify;
 }
 
 .portfolio-modal .modal-content p.item-intro {
