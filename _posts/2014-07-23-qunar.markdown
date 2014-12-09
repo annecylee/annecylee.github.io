@@ -48,14 +48,14 @@ In order to understand what information user was looking for in different steps,
 8 users were recruited. They were asked to group information they cared in different steps. Then they ranked and named each group of cards. After analyzed data, I had some preliminary understandings of user’s behavior in different contexts.  
 
 <div class="col-sm-6">
-<img src="img/portfolio/UX_Research/Qunar_Usability_Testing/card_sorting/card_sorting_data1.png" class="img-responsive" style="max-height: 300px; PADDING-RIGHT: 10px" border="1px">
-</div>
-<div class="col-sm-6">
 <img src="img/portfolio/UX_Research/Qunar_Usability_Testing/card_sorting/card_sorting_data3.png" class="img-responsive" style="max-height: 300px; PADDING-RIGHT: 10px" border="1px">
-</div>
+</div> 
+<div class="col-sm-6">
+<img src="img/portfolio/UX_Research/Qunar_Usability_Testing/card_sorting/card_sorting_data1.png" class="img-responsive" style="max-height: 300px; PADDING-RIGHT: 10px" border="1px">
+</div>   
 
 
-An online survey was conducted to gather more general information, and to create user personas.The survey included questions on users’ travel patterns and their online booking behaviors.
+An online survey was conducted to gather more general information, and to create user personas. The survey included questions on users’ travel patterns and their online booking behaviors.
 
 <img src="img/portfolio/Qunar/booking_process/Qunar_Usability_Testing/survey.png" class="img-responsive img-centered" width="600px" border="1px">
 
