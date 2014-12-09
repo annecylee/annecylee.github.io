@@ -19,6 +19,6 @@ High-fidelity Mockup: Ballot Setup Page
   
 <img src="img/portfolio/ElectionResults/Election_Result_ballot_setup-manually.png" width="800px" border="1px" style="PADDING-RIGHT: 10px" class="img-responsive img-centered">  
 
-High-fidelity Mockup: Results Summary Pag  
+High-fidelity Mockup: Results Summary Page  
 
 <img src="img/portfolio/ElectionResults/Election_Result_head_moderator_return_summary.png" width="800px" border="1px" style="PADDING-RIGHT: 10px" class="img-responsive img-centered"> 

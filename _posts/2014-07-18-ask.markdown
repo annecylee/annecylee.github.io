@@ -20,7 +20,7 @@ Interacts With People Nearby
 <img src="img/portfolio/Ask/guesture.png" width="800px" border="1px" style="PADDING-RIGHT: 10px" class="img-responsive img-centered"> 
  
 To filter content in Q&A, users need to send specific messages. Those messages are captured by script and sent them to the emulator as button input.  
-Examples:1. @ north park : show results only associated with the  keyword ‘north park’2. -restaurant: remove results associated with the negative keyword ‘restaurant’3. >3mi: show results  less than 3mi  away
+Examples:  1. @ north park : show results only associated with the  keyword ‘north park’  2. -restaurant: remove results associated with the negative keyword ‘restaurant’  3. <3mi: show results  less than 3mi  away  
 
 <div class="col-sm-6"> 
 <img src="img/portfolio/Ask/QAlist_2.jpg" border="1px" style="max-width: 300px; PADDING-RIGHT: 10px" class="img-responsive img-centered">

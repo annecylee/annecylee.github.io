@@ -98,7 +98,7 @@ Flow Chart & Medium-Fidelity Mockups
 <info>EXAMPLES</info>
 
 Information Redesign Examples  
-Old version was hard to understand. So we restructed flight info to make sure that new info structure was easy to understand and target. 
+Old version was hard to understand. So we restructured flight info to make sure that new info structure was easy to understand and target. 
  
 <img src="img/portfolio/Qunar/booking_process/information_redesign_example1.png" class="img-responsive img-centered" width="800px" border="1px" style="PADDING-RIGHT: 10px">
 
@@ -119,8 +119,8 @@ We designed a price calendar for checking round-trip ticket price . X-axis repre
 <img src="img/portfolio/Qunar/booking_process/information_redesign_calendar1.png" class="img-responsive img-centered" width="800px" border="1px" style="PADDING-RIGHT: 10px">
 
 <info>TESTING</info>    
-Testings were followed at different points, either before launch or after launch, to ensure application's usability.
-Usability testing of calandar 
+Testing was followed at different points, either before launch or after launch, to ensure application's usability.
+Usability testing of calendar 
 
 <div class="col-sm-6">
 <img src="img/portfolio/UX_Research/Qunar_Usability_Testing/usability_testing_pic.png" class="img-responsive" style="max-height: 380px; PADDING-RIGHT: 10px" border="1px">
