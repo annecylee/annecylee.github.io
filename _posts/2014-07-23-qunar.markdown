@@ -129,7 +129,7 @@ Usability testing of calendar
 <img src="img/portfolio/Qunar/booking_process/Qunar_Usability_Testing/usability_testing/data.png" class="img-responsive" style="max-height: 380px; PADDING-RIGHT: 10px" border="1px"> 
 </div> 
 
-A/B Test Examples   
+A/B Test Example   
 When data extraction takes time, only few flights will be presented at first. In this case, how to let user know that more information is loading? Two solutions were provided, and an A/B test was followed to choose a better experience.
   
 <img src="img/portfolio/Qunar/booking_process/ab_test.png" class="img-responsive img-centered" width="800px" border="1px" style="PADDING-RIGHT: 10px">
