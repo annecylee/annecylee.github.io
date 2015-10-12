@@ -15,6 +15,8 @@ description: PollChief are a set of systems that helps election administrators m
 ---
 PollChief are a set of systems that helps election administrators manage election assets, polling locations, poll workers, and call centers. I participated in designing some processes and interfaces for the web and mobile applications.
 
+<img src="img/portfolio/Pollchief/examples.jpg" width="800px" border="1px" style="PADDING-RIGHT: 10px" class="img-responsive img-centered"> 
+
 Poll Worker Management System, Poll Location Management System, and Assets Management System  
   
 <img src="img/portfolio/Pollchief/pls_pws_pas.png" width="800px" border="1px" style="PADDING-RIGHT: 10px" class="img-responsive img-centered"> 

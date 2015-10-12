@@ -15,6 +15,14 @@ description: Election Result system allows election administrators to create bal
 ---
 Election Result system allows election administrators to create ballot, record elections returns , submit results to secretary of states, and publish unofficial results instantly. I was responsible for information design, interaction design and visual design.
 
+Design processes for given tasks by drawing flowcharts
+
+<img src="img/portfolio/ElectionResults/Abvote_UOCAVA_Registration_and_Voting_Processes_Flow.png" width="800px" border="1px" style="PADDING-RIGHT: 10px" class="img-responsive img-centered">  
+
+Analyzed market data and user patterns to inspire design
+
+<img src="img/portfolio/ElectionResults/Research.png" width="800px" border="1px" style="PADDING-RIGHT: 10px" class="img-responsive img-centered"> 
+
 High-fidelity Mockup: Ballot Setup Page 
   
 <img src="img/portfolio/ElectionResults/Election_Result_ballot_setup-manually.png" width="800px" border="1px" style="PADDING-RIGHT: 10px" class="img-responsive img-centered">  

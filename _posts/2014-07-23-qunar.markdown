@@ -39,10 +39,10 @@ First of all, I detected existing problems by reviewing the old design flows. An
 In order to understand what information user was looking for in different steps, I conducted a card sorting research. 19 cards were prepared. Content topics included ticket price, flight time/day, on-time performance,  aircraft type, etc.  
 
 <div class="col-sm-6">
-<img src="img/portfolio/UX_Research/Qunar_Usability_Testing/card_sorting/img.jpg" class="img-responsive" style="max-height: 200px;" border="1px">
+<img src="img/portfolio/UX_Research/Qunar_Usability_Testing/card_sorting/img.jpg" class="img-responsive" style="max-height: 400px;" border="1px">
 </div>
 <div class="col-sm-6">
-<img src="img/portfolio/UX_Research/Qunar_Usability_Testing/card_sorting/card_sorting_data5.png" class="img-responsive" style="max-height: 200px; PADDING-RIGHT: 10px" border="1px"> 
+<img src="img/portfolio/UX_Research/Qunar_Usability_Testing/card_sorting/card_sorting_data5.png" class="img-responsive" style="max-height: 400px; PADDING-RIGHT: 10px" border="1px"> 
 </div> 
 
 8 users were recruited. They were asked to group information they cared in different steps. Then they ranked and named each group of cards. After analyzed data, I had some preliminary understandings of user’s behavior in different contexts.  

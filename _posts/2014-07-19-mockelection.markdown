@@ -13,21 +13,24 @@ category: Web Development
 description: This project was a research project on user’s interaction with new voting system. In order to improve the absentee voting experience for Uniformed and Overseas Citizens, City of Detroit funded this project. I played a role as a UX designer, I designed website and mobile application for research. I also worked with coworkers to conduct online survey and interview participants.
 
 ---
-This project was a research project on user’s interaction with new voting system. In order to improve the absentee voting experience for Uniformed and Overseas Citizens, City of Detroit funded this project. I played a role as a UX designer, I designed website and mobile application for research. I also worked with coworkers to conduct online survey and interview participants.
+This project was a research project on user’s interaction with new voting system. In order to improve the absentee voting experience for Uniformed and Overseas Citizens, City of Detroit funded this project. I played a role as a UX designer, I designed website and mobile application for research. I also worked with coworkers to conduct online survey and to interview participants.
 
-Project Q & A  
+About Project: Q & A  
 
 <img src="img/portfolio/MockElection/questions_answer2.png" width="800px" border="1px" style="PADDING-RIGHT: 10px" class="img-responsive img-centered">  
 
-Mobile Website  
+Mockup of website 
 
-<img src="img/portfolio/MockElection/Abvote_PhoneWeb_uocava-state___jurisdiction.png" width="300px" border="1px" style="PADDING-RIGHT: 10px" class="img-responsive img-centered"> 
+<img src="img/portfolio/MockElection/Abvote_resident-state___jurisdiction.png" width="600px" border="1px" style="PADDING-RIGHT: 10px" class="img-responsive img-centered">  
 
-In-App Survey  
+Mobile website and mobile app was design to collect data. The data then was analyzed to generate report
 
-<img src="img/portfolio/MockElection/Abvote_survey.png" width="300px" border="1px" style="PADDING-RIGHT: 10px" class="img-responsive img-centered"> 
+<img src="img/portfolio/MockElection/mobile.jpg" width="600px" border="1px" style="PADDING-RIGHT: 10px" class="img-responsive img-centered"> 
 
-Mobile application combines voice command and shake-to-vote technology to help voters who are visually impaired or have certain disability to vote easily.
+
+
+<p>Mobile application combines voice command and shake-to-vote technology to help voters who are visually impaired or have certain disability to vote easily
+</p>
 
 <div><div class="col-sm-3">
 <img src="img/portfolio/MockElection/Abvote-hand.png" border="1px" style="max-width: 150px; PADDING-RIGHT: 10px" class="img-responsive img-centered"> 
