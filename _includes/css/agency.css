@@ -21,6 +21,13 @@ body {
     color: #{{ site.color.secondary-dark }};
 }
 
+.row {
+  display: -webkit-flex;
+  display: flex;
+  -webkit-flex-wrap: wrap;
+  flex-wrap: wrap;
+}
+
 .text-muted {
     color: #777;
 }
