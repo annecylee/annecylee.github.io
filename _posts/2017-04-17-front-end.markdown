@@ -1,0 +1,37 @@
+---
+title: Front-end Web Development Projects
+subtitle: Front-end Web Development
+layout: default
+modal-id: 1
+date: 2017-04-17
+img: JWOC.png
+thumbnail: JWOC.png
+alt: image-alt
+project-date: 2016 - 2017
+client: JWOC
+category: Front-end Developer
+description: I started to learn front-end development on udacity.com at the end of 2016. Since then, I developed several projects using different frameworks and libraries.
+
+---
+Calorie Tracker is a web app for users to track their daily calories consumption, using Backbone to organize structure. <a href="http://www.tingweili.com/Calorie-Tracker/">Calorie Tracker</a>
+
+<img src="img/portfolio/card_sorting/C-tracker.png" width="600px" border="1px" style="PADDING-RIGHT: 10px" class="img-responsive img-centered">
+
+
+I am currently working on developing website for JWOC, a NGO located in Cambodia. I am responsible for design and develop it. You can check my progress at <a href="http://www.tingweili.com/JWOC/">JWOC</a>
+
+<img src="img/portfolio/card_sorting/JWOC.png" width="600px" border="1px" style="PADDING-RIGHT: 10px" class="img-responsive img-centered">
+
+For more about my projects, feel free to visit my <a href="https://github.com/annecylee">github page.</a>
+
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-57711404-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
