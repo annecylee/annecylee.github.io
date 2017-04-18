@@ -15,12 +15,12 @@ description: I started to learn front-end development on udacity.com at the end 
 ---
 Calorie Tracker is a web app for users to track their daily calories consumption, using Backbone to organize structure. <a href="http://www.tingweili.com/Calorie-Tracker/">Calorie Tracker</a>
 
-<img src="img/portfolio/card_sorting/C-tracker.png" width="600px" border="1px" style="PADDING-RIGHT: 10px" class="img-responsive img-centered">
+<img src="img/portfolio/C-tracker.png" width="600px" border="1px" style="PADDING-RIGHT: 10px" class="img-responsive img-centered">
 
 
 I am currently working on developing website for JWOC, a NGO located in Cambodia. I am responsible for design and develop it. You can check my progress at <a href="http://www.tingweili.com/JWOC/">JWOC</a>
 
-<img src="img/portfolio/card_sorting/JWOC.png" width="600px" border="1px" style="PADDING-RIGHT: 10px" class="img-responsive img-centered">
+<img src="img/portfolio/JWOC.png" width="600px" border="1px" style="PADDING-RIGHT: 10px" class="img-responsive img-centered">
 
 For more about my projects, feel free to visit my <a href="https://github.com/annecylee">github page.</a>
 
